@@ -1,0 +1,5 @@
+{
+  "name": "Middle School Curriculum Explorer",
+  "description": "An interactive web application designed for 1st-grade middle school students in Korea to explore their academic subjects and curriculum for the year. Users can browse through different subjects, view detailed descriptions, and see the main topics covered in each course.",
+  "requestFramePermissions": []
+}
